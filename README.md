@@ -3,6 +3,7 @@ This repo contains code samples from my O'Reilly minibook "Containerizing Contin
 
 This README is intended to provide high-level guidance of the project, and detailed instructions can be found in the accompanying book.
 
+
 ## Project Structure
 
 * ci-vagrant
